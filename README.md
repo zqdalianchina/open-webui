@@ -213,6 +213,9 @@ This project is licensed under the [BSD-3-Clause License](LICENSE) - see the [LI
 If you have any questions, suggestions, or need assistance, please open an issue or join our
 [Open WebUI Discord community](https://discord.gg/5rJgQTnV4s) to connect with us! 🤝
 
+This project is powered by the "Open Source Project Free VPS Plan" from [VTEXS](https://vtexs.com/).
+Thanks to the [VTEXS](https://vtexs.com/) Open Source Community for their support!
+
 ## Star History
 
 <a href="https://star-history.com/#open-webui/open-webui&Date">
